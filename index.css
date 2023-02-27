@@ -1,0 +1,14 @@
+.main-content{
+ margin: auto;
+ text-align: center;
+ background-color: rgb(0, 174, 255);
+ width: 250px;
+}
+button{
+  padding-left: 20px;
+  margin-bottom: 15px;
+  
+}
+input {
+  margin-bottom: 5px;
+}
